@@ -1,0 +1,64 @@
+.wrap{
+    position: absolute;
+    left: 50%;
+    top: 32%;
+    margin-left: -125px;
+    border: 1px solid #dddee1;
+    width: 300px;
+    height: 304px;
+ }
+ .loginDiv1{
+    position: absolute;
+    width: 250px;
+    top: 25px;
+    left: 25px;
+ }
+ .loginDiv2{
+    position: absolute;
+    width: 250px;
+    top: 77px;
+    left: 25px;
+ }
+ .loginDiv3{
+    position: absolute;
+    width: 250px;
+    top: 129px;
+    left: 25px;
+ }
+.inputClass{
+    position: absolute;
+    width: 250px; 
+}
+.ImgcheckCode{
+    position: absolute;
+    width: 120px;
+    height: 34px;
+    left: 129px;
+    top: 1px;
+}
+.loginSpn{
+    top: 4px;
+    left: -52px;
+    position: absolute;
+}
+.checkbox{
+    position: absolute;
+    top: 179px;
+    width: 155px;
+    left: 25px;
+}
+.btn{
+    position: absolute;
+    top: 221px;
+    width: 250px;
+    left: 25px;
+}
+.successLogin{
+    top: 260px;
+    left: 57px;
+    width: 185px;
+    text-align: center;
+}
+.inputClass{
+    height: 35px;
+}
